@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: f3411184bf45bca4ca8911634da7a1a8
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: a10419fd9474df781963233b70278bd9
+  longitude: 0
+  latitude: 0
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0, y: 12.7, z: 0}
+      lookAt: {x: 0, y: 0, z: 0}
+      up: {x: 0, y: 0, z: 1}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Prospettica
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Superiore
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Frontale
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Destra
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Acciaio Satinato
+    2100002: Bucciato Nero (Per Struttura)
+    2100004: Laccato Nero
+    2100006: Alluminio Opaco
+    2100008: Alluminio Lucido
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Mesh Base Normal H140
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acciaio Satinato
+    second: {fileID: 2100000, guid: 5abefe138683f184c9bc51cf5732ab71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alluminio Lucido
+    second: {fileID: 2100000, guid: 963b7c86495f4b04ebbbc801e6c89c4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alluminio Opaco
+    second: {fileID: 2100000, guid: 1f098c40720937d4f98b5e78cb160a9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bucciato Nero (Per Struttura)
+    second: {fileID: 2100000, guid: e04c9e25c8bbb5b48ae6d11338a614e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laccato Nero
+    second: {fileID: 2100000, guid: a19bbcf0d06e6ec4ab3742c5a3ac9972, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
